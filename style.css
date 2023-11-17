@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #000000;
+}
+.container-col1 {
+  width: 100%;
+  height: 30%;
+}
+button {
+  height: 70px;
+  width: 70px;
+  border-radius: 35px;
+  background: #383838d7;
+  border: none;
+  color: white;
+  margin: 15px 4px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.row {
+  text-align: center;
+}
+.orange {
+  background: #fd9c12;
+}
+.display {
+  margin: 30px 0;
+  height: 20vh;
+  width: 100%;
+  color: white;
+  padding: 10px;
+  font-size: 30px;
+  background: #000000;
+  border: none;
+}
